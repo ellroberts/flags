@@ -6,6 +6,9 @@
 - Most colors stored as easily maintainable sketch styles
 - Available to use immediately as PNG (1-3x), SVG and PDF.
 
+## Preview
+[<img width="100%" src="preview.jpg" title="preview" />](https://raw.githubusercontent.com/Worldremit/flags/master/preview.jpg)
+
 Contributions and improvements are most welcome.
 
 Enjoy!
