@@ -1,6 +1,4 @@
-<img width="208" height="132" src="masthead.jpg" title="245 Simple Flags">
-
-# flags
+<img width="100%" src="masthead.jpg" title="245 Simple Flags">
 
 245 flags Free for you to use and enjoy. These flags have been super simplified (as much as possible) to keep the SVG file sizes small. Super complex crests and textures have been re-created using simple paths.
 
@@ -13,4 +11,5 @@ Contributions and improvements are most welcome.
 Enjoy!
 
 Josh Djuric
+
 jdjuric@worldremit.com
