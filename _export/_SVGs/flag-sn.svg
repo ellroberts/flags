@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>flag-sn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="-----NEW-COMPLETE-SET-----" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-2" transform="translate(-1328.000000, -2782.000000)">
+            <g id="flag-sn" transform="translate(1328.000000, 2782.000000)">
+                <rect id="Rectangle-path" fill="#FD9B3F" x="0" y="0" width="24" height="16"></rect>
+                <rect id="Rectangle-path" fill="#E84550" x="16" y="0" width="8" height="16"></rect>
+                <rect id="Rectangle-path" fill="#287E6E" x="0" y="0" width="8" height="16"></rect>
+                <polygon id="Star-1" fill="#287E6E" points="12 9.97507764 10.145898 11 10.7175439 8.82917961 9 7.29179607 11.072949 7.20381684 12 5 12.927051 7.20381684 15 7.29179607 13.2824561 8.82917961 13.854102 11"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
